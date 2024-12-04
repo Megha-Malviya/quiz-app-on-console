@@ -1,6 +1,4 @@
 
-#MEGHA MALVIYA 
-#ENROLLMENT NO= 0176AL221078
 
 import random  
  
